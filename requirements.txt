@@ -52,6 +52,7 @@ gym[Box2D,atari,accept-rom-license]~=0.26.1
 # * Swig: http://www.swig.org/download.html
 # * Microsoft C++ Build Tools:
 #   https://visualstudio.microsoft.com/visual-cpp-build-tools/
+# vs_buildtools.exe --norestart --passive --downloadThenInstall --includeRecommended --add Microsoft.VisualStudio.Workload.NativeDesktop --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Workload.MSBuildTools
 # It's much easier to use Anaconda instead.
 
 ##### Image manipulation
